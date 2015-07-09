@@ -27,3 +27,6 @@ document.write("My date of birth is " + numbers[0] + " / " + numbers[1] + " / " 
 
 
 
+
+
+
